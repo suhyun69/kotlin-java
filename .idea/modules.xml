@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/jvmstatic/jvmstatic.iml" filepath="$PROJECT_DIR$/jvmstatic/jvmstatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/keyword/keyword.iml" filepath="$PROJECT_DIR$/keyword/keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-java.iml" filepath="$PROJECT_DIR$/kotlin-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lombok/lombok.iml" filepath="$PROJECT_DIR$/lombok/lombok.iml" />
     </modules>
   </component>
 </project>
