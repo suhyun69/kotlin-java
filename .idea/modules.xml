@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/gettersetter/gettersetter.iml" filepath="$PROJECT_DIR$/gettersetter/gettersetter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyword/keyword.iml" filepath="$PROJECT_DIR$/keyword/keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-java.iml" filepath="$PROJECT_DIR$/kotlin-java.iml" />
     </modules>
   </component>
