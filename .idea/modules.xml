@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extension/extension.iml" filepath="$PROJECT_DIR$/extension/extension.iml" />
       <module fileurl="file://$PROJECT_DIR$/gettersetter/gettersetter.iml" filepath="$PROJECT_DIR$/gettersetter/gettersetter.iml" />
       <module fileurl="file://$PROJECT_DIR$/jvmstatic/jvmstatic.iml" filepath="$PROJECT_DIR$/jvmstatic/jvmstatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/keyword/keyword.iml" filepath="$PROJECT_DIR$/keyword/keyword.iml" />
